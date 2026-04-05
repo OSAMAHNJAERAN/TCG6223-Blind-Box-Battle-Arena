@@ -20,7 +20,7 @@
 
 ## 📷 Screenshots
 
-![Gameplay Scene](assets/gameplay.png)
+![Gameplay Scene](media/gameplay.png)
 *Figure 1: High-octane arena gameplay showcasing platforming, sprites, and the hit-detection system.*
 
 ## 📂 Project Structure
